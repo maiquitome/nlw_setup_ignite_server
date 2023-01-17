@@ -1,4 +1,5 @@
 node_modules
+.vscode
 
 # sqlite database
 prisma/dev.*
